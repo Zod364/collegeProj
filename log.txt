@@ -23,3 +23,4 @@ manage.py Location: The manage.py script is Django's command-line utility for yo
         It often changes your command prompt (e.g., (myworld) user@host:~$) to remind you which environment is active.
 
 
+progress update
