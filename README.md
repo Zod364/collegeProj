@@ -4,3 +4,8 @@ for learning purpose and are small scale project.
 
 There is alsp python environment included in this repo for ease of use and convinience.
 As i don't have to switch the directory to often for now.
+
+Also this is only for small scale project i created for learning , testing and exprimenting.
+As this projects are meant for runned only on local device.
+
+I will be creating a separate repo for internship project.
